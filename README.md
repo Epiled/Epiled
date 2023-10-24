@@ -1,6 +1,10 @@
 <div align="center">
-  <p>------ Olá Mundo 👋 ------</p>
-  <h1>--- Felipe De Andrade / Front-End ---</h1>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&fontAlignY=28&section=header&text=%5C------Olá%20Mundo%20------%2F&fontSize=24"
+/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7A51D&center=true&vCenter=true&random=false&width=750&lines=%3C---+Felipe+De+Andrade+%2F+Front-End+---%3E)](https://git.io/typing-svg)
+
 </div>
 
 <!--
@@ -21,7 +25,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/epiled">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=epiled&show_icons=true&title_color=e46afc&text_color=5db025&icon_color=e46afc&border_color=5db025&bg_color=222422" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epiled&layout=compact&langs_count=7&title_color=e46afc&text_color=ffffff&icon_color=e46afc&border_color=5db025&bg_color=222422" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epiled&layout=compact&langs_count=7&title_color=e46afc&text_color=ffffff&icon_color=e46afc&border_color=5db025&bg_color=222422" />
   </a>
 </div>
 
