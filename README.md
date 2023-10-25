@@ -7,7 +7,25 @@
 
 </div>
 
-##
+## Sobre
+
+<div>
+
+  Sou um desenvolvedor full-stack com 5 anos de experiência na area de desenvovlimento web, tenho vasta experiência em otimização de performance web. Trabalhei em diversas       agências de marketing e já realizei mais de 60 projetos no decorrer da minha carreira, alguns para empresas estrangeiras.
+  <br><br>
+  Possuo atualmente mais de 50 certificados técnicos relacioandos a Desenvolvimento Web
+  <br><br>
+  Minha especialidade é em criar sites rápidos e otimizados as vezes com sistema de CMS e controle de conteúdo integrado.
+  <br><br>
+  Atualmente estou termiando minha faculdade de Análise e Desenvolvimento de Sistemam
+  
+<div align="center" style="float: right;">
+  
+  ![man-developing-website-on-desk](https://github.com/Epiled/Epiled/assets/55258483/62508a0a-7dc4-433f-8e8f-81a03c0d1e37)
+    
+</div>
+  
+</div>
 
 <!--
 **Epiled/Epiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +42,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Estatísticas
+
 <div align="center">
   <a href="https://github.com/epiled">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=epiled&show_icons=true&title_color=e46afc&text_color=5db025&icon_color=e46afc&border_color=5db025&bg_color=222422" />
@@ -36,13 +56,7 @@ Here are some ideas to get you started:
 ## Hards Skills
   
 <div align="left">
-  
   <img align="center" alt="Felipe-Handlebars" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" />
-
-
-
-
-
   <img align="center" alt="Felipe-HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Felipe-CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Felipe-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
