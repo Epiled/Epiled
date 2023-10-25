@@ -7,6 +7,8 @@
 
 </div>
 
+##
+
 <!--
 **Epiled/Epiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,21 +33,31 @@ Here are some ideas to get you started:
 
   <br>
   
-<div align="center">
-  <img align="center" alt="Felipe-Handlebars" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" />
-  <img align="center" alt="Felipe-HTML5" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Felipe-CSS3" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Felipe-Js" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Felipe-PHP" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
-  <img align="center" alt="Felipe-NodeJs" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" alt="Felipe-Bootstrap5" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="Felipe-jQuery" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img align="center" alt="Felipe-React" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+## Hards Skills
+  
+<div align="left">
+  
+  <img align="center" alt="Felipe-Handlebars" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" />
+
+
+
+
+
+  <img align="center" alt="Felipe-HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Felipe-CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="Felipe-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Felipe-PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+  <img align="center" alt="Felipe-NodeJs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" alt="Felipe-Bootstrap5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="Felipe-jQuery" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+  <img align="center" alt="Felipe-React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
   <br>
   
-<div style="margin-top: 15px";> 
+## Redes Socias / Contatos
+  
+<div> 
  <a href="mailto:felipe.deam98@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
@@ -59,3 +71,5 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
