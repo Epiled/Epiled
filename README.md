@@ -19,11 +19,11 @@
   <br><br>
   Atualmente estou termiando minha faculdade de Análise e Desenvolvimento de Sistemam
   
-<div align="center" style="float: right;">
-  
-  ![man-developing-website-on-desk](https://github.com/Epiled/Epiled/assets/55258483/62508a0a-7dc4-433f-8e8f-81a03c0d1e37)
+  <div align="center" style="float: right;">
     
-</div>
+  ![man-developing-website-on-desk](https://github.com/Epiled/Epiled/assets/55258483/62508a0a-7dc4-433f-8e8f-81a03c0d1e37)
+      
+  </div>
   
 </div>
 
