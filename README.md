@@ -17,9 +17,8 @@
   <br><br>
   Minha especialidade é em criar sites rápidos e otimizados as vezes com sistema de CMS e controle de conteúdo integrado.
   <br><br>
-  Atualmente estou termiando minha faculdade de Análise e Desenvolvimento de Sistemam
+  Atualmente estou termiando minha faculdade de Análise e Desenvolvimento de Sistemas
   
-
 </div>
 
 <!--
